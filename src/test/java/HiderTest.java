@@ -10,5 +10,9 @@ public class HiderTest {
         assertEquals(true,encrp.isString());
 
     }
+ @Test
+    public void doTest_On_Encoding(){
+    assertEquals("bc",encrp.encoderData("HI",20));
+    }
 
 }
