@@ -60,12 +60,12 @@ public String encoderData(String str,int range) {
         return String.valueOf(arrayString);
     }
     public Integer getRange(){
-        System.out.println("Get Range");
+        System.out.println("Input range in numbers");
         System.out.println("");
         return  we.nextInt();
     }
     public char getOption(){
-        System.out.println("D to decode E to encode");
+        System.out.println("Type D to decode E to encode");
         System.out.println("");
         return  we.next().charAt(0);
     }
