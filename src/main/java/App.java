@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[]args){
-        Hider encrp=new Hider();
+        Hider encrp=new Hider(); //Instance of class Hider
         String input ="";
         input=encrp.isString(encrp.isString());
         int range=encrp.getRange();
