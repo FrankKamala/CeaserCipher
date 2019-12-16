@@ -16,6 +16,11 @@ Francis Kamala Albert
 |Decode (D)   	| User choose to Encode the input String	|
 | Encode (E)	| User chooses to Encode the input they provided                         	|
 
+
+## Technologies Used
+* Java 10
+
+* jUnit4
  ## Setup
  
 `git clone https://github.com/FrankKamala/CeaserCipher.git` 
