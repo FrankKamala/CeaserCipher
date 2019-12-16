@@ -19,8 +19,12 @@ Francis Kamala Albert
  ## Setup
  
 `git clone https://github.com/FrankKamala/CeaserCipher.git` 
+
 Unzip the folder contents and run App.java class file on any IDE or use Javac to compile and then Run the main Class
 
+
+### Contact Info
+Drop your suggestions via **Email** :<frankkamala@gmail.com>
 
 ## License
 Licenced under [MIT License ](LICENSE)
